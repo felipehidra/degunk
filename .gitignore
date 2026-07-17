@@ -1,0 +1,5 @@
+# local build artifacts — users build their own binary (go build -o degunk .)
+degunk
+maccleaner
+*.log
+.DS_Store
